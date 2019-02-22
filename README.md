@@ -1,12 +1,12 @@
 # lirikendallbot
 
-Lirikendall Bot runs off Node. It is patterned off Iphone Siri, but instead of being voice activated it takes user prompts and gives out commands using parameters and giving by data based responses requested by the user. This app focuses on concerts, songs, and movies.
+lirikendallbot runs off Node. It is patterned off Iphone Siri, but instead of being voice activated it takes user prompts and gives out commands using parameters and giving by data based responses requested by the user. This app focuses on concerts, songs, and movies.
 
 **
 
 DIRECTIONS:
 
-This is just a simple Bot: From console: npm i lirikendall bot
+This is just a simple Bot: From console: npm i lirikendallbot
 
 Search any Concert, Song, Movie Next: node liri.js
 
