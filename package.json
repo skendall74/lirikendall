@@ -1,0 +1,36 @@
+{
+  "name": "lirikendallbot",
+  "version": "1.0.2",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "liri": "./liri.js"
+  },
+  "author": "Shannon Kendall",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "file-system": "^2.2.2",
+    "inquirer": "^6.2.2",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "liribot",
+    "homework"
+  ],
+  "description": "Lirikendall Bot runs off Node. It is patterned off Iphone Siri, but instead of being voice activated it takes user prompts and gives out commands using parameters and giving by data based responses requested by the user. This app focuses on concerts, songs, and movies.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skendall74/lirikendall.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skendall74/lirikendall/issues"
+  },
+  "homepage": "https://github.com/skendall74/lirikendall#readme"
+}
