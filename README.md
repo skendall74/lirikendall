@@ -27,16 +27,16 @@ require('moment') Allows the concert and movie goer to keep up with the latest m
 ====================
 
 What the UI Says:
-![Image of UI](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/UI.png)
+![Image of UI](https://raw.githubusercontent.com/skendall74/lirikendall/master/assets/concert%20.png)
 
 What the Concert Says:
-![Image of Concert](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/concert%20.png)
+![Image of Concert](https://raw.githubusercontent.com/skendall74/lirikendall/master/assets/concert%20.png)
 
 What the Movie Says:
-![Image of Movie](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/movie.png)
+![Image of Movie](https://raw.githubusercontent.com/skendall74/lirikendall/master/assets/movie.png)
 
 What the Song Says:
-![Image of Song](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/song%20.png)
+![Image of Song](https://raw.githubusercontent.com/skendall74/lirikendall/master/assets/song%20.png)
 
 What the File Says:
-![Image of Concert](https://raw.githubusercontent.com/skendall74/liri-bot/master/assets/says.png)
+![Image of Concert](https://raw.githubusercontent.com/skendall74/lirikendall/master/assets/says.png)
